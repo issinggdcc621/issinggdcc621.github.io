@@ -1,0 +1,89 @@
+h1 {
+    color:rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin: 75px;
+    padding: 40px;
+    text-align: center;
+    font-size: 2em;
+}
+body{
+    background-color:  rgb(131, 163, 206);
+}
+img:BH{
+    transition:  transform 1s;
+    transition: widh 2s;
+    transition: height 2s;
+    width: 500px;
+    height:600px;
+}
+.dancing:hover{
+    transform: rotate(30deg);
+    width: 500px;
+    height: 300px;
+}
+.dancing2:hover{
+    transform: rotate(10deg);
+    width: 450px;
+    height: 300px;
+}
+
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color:  rgb(0, 0, 0)
+
+}
+nav ul li{
+    float: left;
+    
+}
+nav ul li a{
+    display: block;
+    padding: 10px;
+    background-color:  rgb(0, 0, 0);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+nav ul li a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    
+}
+#special{
+    background-color: rgb(229, 155, 192);
+    color: rgb(255, 255, 255);
+}
+
+.pullquote {
+    font-size: 2em;
+}
+
+h4{
+    color:rgb(255, 255, 255);
+    background-color:rgb(229, 155, 192);
+    margin: 75px;
+    padding: 40px;
+    text-align: center;
+    font-size: 2em;
+}
+h5{
+    color:rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+    margin:  75px;
+    padding: 40px;
+    text-align: center;
+}
+
+#cool{
+    color: rgb(124, 87, 7)
+}
+h6{
+    font-size: 2em;
+}
